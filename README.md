@@ -1,4 +1,4 @@
-## Welcome to Materials, Automated!
+## Welcome to Materials,  Automated!
 
 Materials, Automated! is hosted by PARADIM PI and Johns Hopkins Professor Tyrel McQueen. Our vision is to automate repetitive data analysis workflows for anyone working with materials data. If you find yourself spending a lot of time doing the same thing with your data and can provide sample inputs and outputs, Professor McQueen will provide a coding session to produce Python code in a Jupyter notebook to automate the process. Coding will be done live and broadcast over Zoom during "speed writing" sessions on Tuesday afternoons. Following the lessons live, or watching the recording later, lets anyone follow *how* this kind of work is done. 
 
