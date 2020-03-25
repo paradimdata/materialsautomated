@@ -15,4 +15,3 @@ We still have a lot to work out, like: how are we going to let people make reque
 1. Curie-Weiss analysis of magnetization data. 
   * Mar 24, 2020 02:30 PM Eastern Time
   * Zoom: https://wse.zoom.us/j/480030389
-
