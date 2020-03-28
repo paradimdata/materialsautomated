@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: paradimdata/flexible_jekyll
 title: "Materials, Automated"
 description: "Automated materials data workflows on request"
 permalink: ':title/'
