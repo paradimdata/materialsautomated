@@ -1,18 +1,15 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+## Welcome to Materials,  Automated! Sandbox
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+Materials, Automated! is hosted by PARADIM co-PI and Johns Hopkins Professor Tyrel M. McQueen. Our vision is to automate repetitive data analysis workflows for anyone working with materials data in materials chemistry, physics, or science. If you find yourself spending a lot of time doing the same thing with your data and can provide sample inputs and outputs, submit a [feature request issue](https://github.com/materialsautomated/materialsautomated.github.io/issues) requesting an automated version. Professor McQueen will then provide a coding session to produce Python code in a Jupyter notebook to automate the process. Coding will be done live and broadcast over Zoom during "speed writing" sessions on Tuesday afternoons. Following the lessons live, or watching the recording later, lets anyone follow *how* this kind of work is done. 
 
-## Demo
+These remote sessions are open to anyone around the world and all the tools will be available right here through the Materials, Automated site. Think of it as a materials data podcast, but with coding instead of just talk. 
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+The eventual vision is for anyone in the world to submit workflow requests and get a tool in return, on the condition the tool and representative sample data are made available here and to the entire materials community. 
 
-The main page would look like this:
+Did we mention that it's free and openly available?  
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+We still have a lot to work out, like: how are we going to let people make requests for the coding of tools, will there be live discussion during the speed coding or is it more efficient to let Tyrel just go about the job and describe what he's doing without too many interuptions, where can we organize asynchronous discussions after the session? 
 
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
 ## Features
 
@@ -24,13 +21,3 @@ The post page would look like this:
 
 ## Installation:
 
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
