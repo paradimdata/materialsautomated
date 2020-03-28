@@ -1,4 +1,4 @@
-theme: slate
+theme: jekyll-theme-slate
 title: "Materials, Automated"
 description: "Automated materials data workflows on request"
 permalink: ':title/'
