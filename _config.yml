@@ -5,9 +5,9 @@ permalink: ':title/'
 url: 'https://paradimdata.github.io/materialsautomated_sandbox/'
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: David Elbert # add your name
+author-img: Materials-Automated-Logo.png # add your photo
+about-author: Materials, Automated! is hosted by PARADIM co-PI and Johns Hopkins Professor Tyrel M. McQueen. Our vision is to automate repetitive data analysis workflows for anyone working with materials data in materials chemistry, physics, or science.. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
