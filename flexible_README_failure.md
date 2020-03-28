@@ -10,8 +10,14 @@ Did we mention that it's free and openly available?
 
 We still have a lot to work out, like: how are we going to let people make requests for the coding of tools, will there be live discussion during the speed coding or is it more efficient to let Tyrel just go about the job and describe what he's doing without too many interuptions, where can we organize asynchronous discussions after the session? 
 
-### Sessions
 
-1. [Curie-Weiss analysis of magnetization data](https://github.com/materialsautomated/materialsautomated.github.io/tree/master/MaterialsAutomated0-CurieWeissAnalysis). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/materialsautomated/materialsautomated.github.io/master?filepath=%2FMaterialsAutomated0-CurieWeissAnalysis%2FMaterialsAutomated0.ipynb)
+## Features
 
-   {% include MaterialsAutomated0Video.html %}
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
+
+## Installation:
+

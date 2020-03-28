@@ -1,4 +1,4 @@
-remote_theme: paradimdata/flexible-jekyll
+theme: slate
 title: "Materials, Automated"
 description: "Automated materials data workflows on request"
 permalink: ':title/'
