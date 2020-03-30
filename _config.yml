@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: twister-jekyll-theme
 title: "Materials, Automated"
 description: "Automated materials data workflows on request"
 permalink: ':title/'
